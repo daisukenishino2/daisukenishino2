@@ -1,13 +1,13 @@
 ## Hi there 👋
-I'm Daisuke Nishino, I was experienced the development of the application infrastructure of a large-scale system for agency of nonlife insurance. Afterward, based on this experience, in charge of support engineer of microsoft technologies such as ".NET development or some of the major Windows platform's functions and roles" at production engineering department of system integrator in Japan.
+I'm Daisuke Nishino. Initially 2000, I was involved in the development of application infrastructure for a large-scale system for a non-life insurance agency. Based on this experience, I later worked as a support engineer for Microsoft technologies, including .NET development and major Windows platform functions, in the production engineering department of a system integrator company in Japan.
 
-In 2014, I released OpenTouryo, which consolidates our knowledge of system integration, and that is infrastructure that is consysted template and tools for the large-scale enterprise business applications development as OSS.
+In 2014, I released OpenTouryo, an open-source infrastructure consisting of templates and tools designed for developing large-scale enterprise business applications. It consolidates our knowledge and experience in system integration.
 
-Since 2015,, in charge of the measures of productivity improvement of systems integration using cloud technology, and developing authentication system of OAuth2.0/OIDC. And, I began developing templates for develop hybrid mobile application and backend Web API that considered authentication, but it's stopped.
+Since 2015, I have been responsible for improving productivity in system integration using cloud technologies and developing authentication systems based on OAuth 2.0 and OIDC. I also started developing templates for hybrid mobile applications and backend Web APIs with integrated authentication, though this development has since been paused.
 
-This is because, the wave of digital transformation has come since 2020. I started with Apache Spark for big data and then moved on to IoT and data pipelines, but I eventually realized it was important to get involved in BI/AI, so I devoted myself to machine learning, deep learning, and obtaining JDLA-E certification.
+With the rise of digital transformation around 2020, I shifted my focus to big data technologies, beginning with Apache Spark, then expanding into IoT and data pipelines. Eventually, I realized the importance of BI and AI, so I dedicated myself to machine learning, deep learning, and obtained the JDLA-E certification.
 
-As a result, I am now able to develop business applications using C#, develop based on web architectures using JavaScript and other tools, and conduct data scientist-style research using Python and other tools.
+As a result, I can now develop business applications using C#, build web architecture-based applications using JavaScript and related tools, and conduct data science research using Python and other tools.
 
 - 🔭 I’m currently working on LLM.
 - 🌱 I’m currently learning LLM.

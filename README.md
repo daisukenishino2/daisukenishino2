@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Daisuke Nishino. Initially 2000, I was involved in the development of application infrastructure for a large-scale system for a non-life insurance agency. Based on this experience, I later worked as a support engineer for Microsoft technologies, including .NET development and major Windows platform functions, in the production engineering department of a system integrator company in Japan.
+My first experience, initially in 2000, was being involved in the development of application infrastructure for a large-scale system for a non-life insurance agency. Based on this experience, I later worked as a support engineer for Microsoft technologies, including .NET development and major Windows platform functions, in the production engineering department of a system integrator company in Japan.
 
 In 2014, I released OpenTouryo, an open-source infrastructure consisting of templates and tools designed for developing large-scale enterprise business applications. It consolidates our knowledge and experience in system integration.
 
